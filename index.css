@@ -1,12 +1,13 @@
-body, html {
+body,
+html {
   margin: 0;
   padding: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #fff;
 }
 
 body {
-  background: url(./images/bg01.jpg) no-repeat center center fixed;
+  background: url(./images/bg01.jpeg) no-repeat center center fixed;
   background-size: cover;
 }
 
